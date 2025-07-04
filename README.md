@@ -58,6 +58,7 @@ I'm a graduate student in **Data Science** at Georgia Tech with a strong foundat
 
 ### Platforms & Environments  
 ![Databricks](https://img.shields.io/badge/Databricks-FE4720?style=flat-square&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
