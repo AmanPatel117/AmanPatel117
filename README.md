@@ -44,32 +44,6 @@ My current interests lie at the intersection of applied machine learning, natura
 
 ---
 
-## Experience Highlights
-
-### Data Science Intern @ [BlueConduit](https://www.blueconduit.com/)  
-*Aug 2024 – Present*  
-- Built LangChain-powered LLM tools for automated reporting and web scraping  
-- Enhanced Databricks pipelines with drift detection and retraining mechanisms  
-- Modeled water main break risks using neural networks
-
-### Data Analytics Intern @ State Farm  
-*May 2024 – Aug 2024*  
-- Developed a RAG-based Q&A engine using LlamaIndex  
-- Wrote complex SQL queries for claim analytics  
-- Forecasted insurance line profits via ARIMA models
-
-### ML Intern @ Tremau  
-*Jan 2024 – May 2024*  
-- Designed a real-time semantic search engine for toxic comment detection  
-- Trained classifiers for policy violation prediction (75%+ accuracy)
-
-### Research Assistant @ GT Fintech Lab & UNC Chapel Hill  
-*2023 – Present*  
-- NLP on S-1 IPO filings to analyze disclosure readability and sentiment  
-- Built LSTM models to simulate EV driver behavior and improve battery life
-
----
-
 ## Featured Projects
 
 - **LLM Automation Suite** – Custom LangChain tools for analytics and prospecting  
