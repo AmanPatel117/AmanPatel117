@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aman Patel
+# Aman Patel
 
 🎓 I'm a graduate student in **Data Science** at Georgia Tech, with a background in **Mathematics** and a passion for building impactful ML systems. I'm currently combining my academic and industry experience to solve real-world problems using data.
 
@@ -8,8 +8,7 @@
 
 - 📍 Based in Atlanta, GA  
 - 🎓 **MS in Data Science** at Georgia Tech (Expected Aug 2026)  
-- 🧮 **BS in Mathematics**, minor in Computing & Intelligence, Georgia Tech  
-- 📈 GPA: 3.96  
+- 🧮 **BS in Mathematics**, minor in Computing & Intelligence, Georgia Tech 
 - 🌐 [LinkedIn](https://linkedin.com/in/amanapatel) | [GitHub](https://github.com/AmanPatel117)
 
 ---
@@ -23,13 +22,13 @@ Python | R | SQL | Java
 Scikit-learn | PyTorch | TensorFlow/Keras | XGBoost | MLflow  
 
 **Data Tools**  
-Pandas | NumPy | PySpark | seaborn | ggplot2 | Power BI | Microsoft Access  
+Pandas | NumPy | PySpark | seaborn | ggplot2 | Power BI 
 
 **Other**  
 LangChain | LlamaIndex | Pinecone | ARIMA | Regex | NLP | Git
 
 **Languages Spoken**  
-English (Native), Spanish (Advanced)
+Spanish (Advanced)
 
 ---
 
