@@ -1,7 +1,7 @@
 <h1 align="center">Aman Patel</h1>
 
 
-I'm a graduate student in **Data Science** at Georgia Tech with a strong foundation in **Mathematics** and a passion for building machine learning systems that solve real-world problems. I combine academic research with hands-on industry experience in areas like LLMs, semantic search, time series forecasting, and predictive modeling.
+I'm a graduate student in **Data Science** at Georgia Tech with a strong foundation in **Mathematics** and a passion for building machine learning systems that solve real-world problems. I have experience working with data and AI across a wide variety of fields, including finance, sustainability, academia, and tech.
 
 ---
 
