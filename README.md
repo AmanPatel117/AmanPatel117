@@ -15,50 +15,51 @@ I'm a graduate student in **Data Science** at Georgia Tech with a strong foundat
 
 ## Skills & Tools
 
-### Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+## Skills & Tools
+
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ---
 
 ### Machine Learning & AI  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6839?style=for-the-badge&logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6839?style=flat-square&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
 
 ---
 
 ### Data Tools & Libraries  
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
-![seaborn](https://img.shields.io/badge/seaborn-2E8B57?style=for-the-badge)
-![ggplot2](https://img.shields.io/badge/ggplot2-EE4444?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square)
+![seaborn](https://img.shields.io/badge/seaborn-2E8B57?style=flat-square)
+![ggplot2](https://img.shields.io/badge/ggplot2-EE4444?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
 ### Technologies & Frameworks  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B32C3?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-1E90FF?style=for-the-badge)
-![ARIMA](https://img.shields.io/badge/ARIMA-4682B4?style=for-the-badge)
-![Regex](https://img.shields.io/badge/Regex-E10098?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B32C3?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-1E90FF?style=flat-square)
+![ARIMA](https://img.shields.io/badge/ARIMA-4682B4?style=flat-square)
+![Regex](https://img.shields.io/badge/Regex-E10098?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-9C27B0?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### Platforms & Environments  
-![Databricks](https://img.shields.io/badge/Databricks-FE4720?style=for-the-badge&logo=databricks&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
+![Databricks](https://img.shields.io/badge/Databricks-FE4720?style=flat-square&logo=databricks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
