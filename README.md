@@ -58,8 +58,6 @@ I'm a graduate student in **Data Science** at Georgia Tech with a strong foundat
 
 ### Platforms & Environments  
 ![Databricks](https://img.shields.io/badge/Databricks-FE4720?style=flat-square&logo=databricks&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
