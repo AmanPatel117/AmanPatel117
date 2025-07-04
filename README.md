@@ -65,7 +65,7 @@ I'm a graduate student in **Data Science** at Georgia Tech with a strong foundat
 My current interests lie at the intersection of data science, applied machine learning, and natural language processing and LLMs. I'm particularly drawn to:
 
 - Data Science: data cleaning, feature engineering, data encoding
-- Machine Learning: statistical learning theory, optimization, deep learning
+- Machine Learning: statistical learning, optimization, deep learning
 - LLM Applications: prompt engineering, Retrieval Augmented Generation, Agentic AI
 
 ---
