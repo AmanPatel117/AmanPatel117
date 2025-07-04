@@ -62,13 +62,11 @@ I'm a graduate student in **Data Science** at Georgia Tech with a strong foundat
 
 ## Interests
 
-My current interests lie at the intersection of applied machine learning, natural language processing, and infrastructure optimization. I'm particularly drawn to:
+My current interests lie at the intersection of data science, applied machine learning, and natural language processing and LLMs. I'm particularly drawn to:
 
-- Leveraging **large language models** for automation, retrieval-augmented generation (RAG), and enterprise analytics  
-- Applying **time series and survival analysis** to operational forecasting problems (e.g., pipe failure, insurance payouts)  
-- Building robust **data pipelines** with an emphasis on model monitoring and retraining  
-- Exploring **semantic search and clustering** to make unstructured data more actionable  
-- Researching the link between **text disclosure and financial outcomes** using NLP and statistical modeling
+- Data Science: data cleaning, feature engineering, data encoding
+- Machine Learning: statistical learning theory, optimization, deep learning
+- LLM Applications: prompt engineering, Retrieval Augmented Generation, Agentic AI
 
 ---
 
