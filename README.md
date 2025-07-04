@@ -46,14 +46,12 @@ My current interests lie at the intersection of applied machine learning, natura
 
 ## Featured Projects
 
-- **LLM Automation Suite** – Custom LangChain tools for analytics and prospecting  
-- **RAG Pipeline for SERFF** – LlamaIndex Q&A engine for insurance filings  
-- **EV Driving Simulation** – LSTM-based behavior model improving battery efficiency  
+- **Tennis Analytics** – Scraped data for 80,000 matches from ATP website and built a win predictor model  
+- **Running Injury Prediction** - Trained a variety of models to predict injury for runners based on workout
 
 ---
 
 ## Contact
 
 - Email: aman0patel@gmail.com  
-- LinkedIn: [linkedin.com/in/amanapatel](https://linkedin.com/in/amanapatel)  
-- GitHub: [github.com/AmanPatel117](https://github.com/AmanPatel117)
+- LinkedIn: [linkedin.com/in/amanapatel](https://linkedin.com/in/amanapatel)
